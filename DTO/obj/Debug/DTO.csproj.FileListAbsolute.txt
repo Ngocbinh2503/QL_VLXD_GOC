@@ -1,0 +1,8 @@
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\obj\Debug\DTO.dll
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,2 @@
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

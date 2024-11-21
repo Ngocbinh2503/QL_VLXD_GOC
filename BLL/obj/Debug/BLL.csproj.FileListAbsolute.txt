@@ -1,0 +1,2 @@
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\KH5_2024-2025\HQTCSDL\04_QuanLyVatLieuXayDung\04_QuanLyVatLieuXayDung\QL_VatLieuXayDung\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
